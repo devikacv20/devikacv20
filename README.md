@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Devika!<br>I'm a 3rd-year B.Tech student specializing in Artificial Intelligence and Data Science at KIT Kalaignar Karunanidhi Institute of Technology. My academic focus includes machine learning, deep learning, and data analytics, with hands-on experience in Python, cybersecurity, and real-time systems. I'm passionate about leveraging technology to solve complex problems and build innovative solutions.
+👋 Hi, I'm Devika!<br>I'm a 3rd-year B.Tech student specializing in Artificial Intelligence and Data Science at KIT Kalaignar Karunanidhi Institute of Technology. My academic focus includes machine learning, deep learning. I'm passionate about leveraging technology to solve complex problems and build innovative solutions.
 
 
 ## 🌐 Socials:
